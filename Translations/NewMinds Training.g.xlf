@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="NewMinds Training">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 476794120 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Red Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 476794120 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Red Header - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 476794120 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Red Header - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2743696111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Red Legal Text Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Red Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2743696111 - Field 1556086017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Red Legal Text Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Red Line - Field Red Header Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2743696111 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Red Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2743696111 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Red Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3044298244 - NamedType 667995090" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 cannot be %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Red Sales Post Custom - NamedType RedCannotHaveValueErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1001003563 - NamedType 1933002135" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales post succesful</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Red Sales-Post Events - NamedType AfterPostSalesDocMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 3153706908 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Red Header Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3153706908 - Control 3385159699 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Red Header Card - Control GeneralGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3153706908 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Red Header Card - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3153706908 - Control 269655754 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Red Header Card - Control RedLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3153706908 - Action 2675496269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Red Header Card - Action Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3153706908 - NamedType 3483692296" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing Action</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Red Header Card - NamedType ProcessingActionMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 2179132169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Headers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Red Headers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2179132169 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the entry number. Set automatically.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Red Headers - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2179132169 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Red Headers - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4274761146 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Red Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Red Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4274761146 - Control 1556086017 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the entry number of the parent record.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Red Lines - Control Red Header Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4274761146 - Control 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the line number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Red Lines - Control Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4274761146 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Red Lines - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1971376505 - Control 3594698021 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Specifies the posting options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Red Sales Order PageExt - Control Red Posting Options - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1971376505 - Change 1527563463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Red External Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Red Sales Order PageExt - Change External Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1971376505 - Action 3582000969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Post New</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Red Sales Order PageExt - Action RedPostnew - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1971376505 - Action 3582000969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>The new way of posting!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Red Sales Order PageExt - Action RedPostnew - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3310422093 - Field 3594698021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Posting Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Red Sales Header TableExt - Field Red Posting Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3310422093 - Field 3594698021 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Normal,Custom</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Red Sales Header TableExt - Field Red Posting Options - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3310422093 - NamedType 667995090" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>%1 cannot be %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Red Sales Header TableExt - NamedType RedCannotHaveValueErr</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3310422093 - NamedType 3885079515" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Custom Posting Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Red Sales Header TableExt - NamedType RedPostCustomMsg</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
