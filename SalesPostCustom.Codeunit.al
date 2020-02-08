@@ -16,9 +16,15 @@ codeunit 50100 "Red Sales Post Custom"
                 "Red Posting Options"::Custom:
                     Error(RedCannotHaveValueErr, FieldCaption("Red Posting Options"), "Red Posting Options"::Custom);
                 else
-                    SalesPost.Run(SalesHeader)
+                    if SalesPost.Run(SalesHeader) then;
             end;
         end;
+        OnAfterPost(SalesHeader);
+    end;
+
+    [IntegrationEvent(false, false)]
+    local procedure OnAfterPost(SalesHeader: Record "Sales Header")
+    begin
     end;
 
     var
