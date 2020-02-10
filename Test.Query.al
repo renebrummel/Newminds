@@ -10,7 +10,7 @@ query 50100 "Red Test"
             {
 
             }
-            filter(Global_Dimension_1_Code; "Global Dimension 1 Code")
+            filter(Global_Dimension_2_Code; "Global Dimension 2 Code")
             {
 
             }
