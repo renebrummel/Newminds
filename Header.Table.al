@@ -16,6 +16,11 @@ table 50110 "Red Header"
             DataClassification = ToBeClassified;
             Caption = 'Description';
         }
+        field(20; "New Field"; Integer)
+        {
+            DataClassification = ToBeClassified;
+            Caption = 'New field';
+        }
     }
 
     keys

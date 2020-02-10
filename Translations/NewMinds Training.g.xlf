@@ -18,6 +18,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Red Header - Field Description - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 476794120 - Field 206997650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Red Header - Field New Field - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 2743696111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Red Legal Text Line</source>
           <note from="Developer" annotates="general" priority="2"></note>
